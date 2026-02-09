@@ -1,1 +1,1 @@
-Maximum among all three numbers=80
+Number is odd
