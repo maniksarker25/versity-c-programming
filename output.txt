@@ -1,1 +1,1 @@
-Both are equel
+Maximum among all three numbers=80
