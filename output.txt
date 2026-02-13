@@ -1,1 +1,1 @@
-r is consonant
+Enter first number: Enter operator (+, -, *, /): Enter second number: Result = 7.00
