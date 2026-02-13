@@ -1,1 +1,1 @@
-Enter first number: Enter operator (+, -, *, /): Enter second number: Result = 7.00
+2006 is NOT a Leap Year
